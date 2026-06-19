@@ -80,7 +80,7 @@ The projects cover different supervised learning algorithms including classifica
 ## 📌 Author
 
 Moustafa Serag  
-Machine Learning Enthusiast
+AI Developer specializing in ML and DL
 
 ---
 
