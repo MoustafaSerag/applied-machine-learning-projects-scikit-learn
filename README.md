@@ -57,13 +57,21 @@ The projects cover different supervised learning algorithms including classifica
 
 ## 📁 Repository Structure
 ├── boston_house_prices_linear_regression.ipynb
+
 ├── breast_cancer_svm_classification.ipynb
+
 ├── employee_attrition_logistic_regression.ipynb
+
 ├── employee_logistic_regression_classification.ipynb
+
 ├── heart_failure_random_forest_classification.ipynb
+
 ├── iris_knn_cross_validation.ipynb
+
 ├── multivariable_gradient_descent_optimization.ipynb
+
 ├── titanic_decision_tree_classification.ipynb
+
 └── LICENSE
 
 
